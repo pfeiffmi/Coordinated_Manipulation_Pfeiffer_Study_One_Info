@@ -46,7 +46,15 @@ If you complete the entire study procedure, you will receive a $25 Amazon gift c
 
 To sign up for the study, please email Michael Pfeiffer, Graduate Student Researcher, at: pfeiffmi@oregonstate.edu
 
-Your email can simply say that that you are interested in participating in the study and we can schedule a time from there. 
+Your email can simply say that that you are interested in participating in the study and we can schedule a time from there. An example email is provided below:
+"""
+Hello Michael,
+
+I am interested in participating in your study.
+
+Thanks,
+\<Put your name here\>
+"""
 
 ### 2.2. Requesting A Time in First Email:
 
@@ -250,6 +258,6 @@ If no times work for you and would still like to participate, please send an ema
 > 6:30 pm
 > 7:00 pm
 
-#### June 30th & Beyond
+#### Monday, June 30th & Beyond
 
 > Please mention in your email that you would like to schedule a time for June 30th or later. We can find a time that works from there.
