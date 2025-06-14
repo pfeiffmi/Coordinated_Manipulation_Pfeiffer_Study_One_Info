@@ -48,7 +48,11 @@ To sign up for the study, please email Michael Pfeiffer, Graduate Student Resear
 
 Your email can simply say that that you are interested in participating in the study and we can schedule a time from there. 
 
-Alternatively, you can find one or more times below that would work best for you to participate. Please mention that you would prefer these times in your email. Also, please note that the times below may not be up-to-date. So it is not guarenteed that a times below will all be available.
+### 2.2. Requesting A Time in First Email:
+
+You can find one or more times below that would work best for you to participate. Please mention the times you prefer in your email. 
+
+Note that the times below may not be up-to-date and may not all be available.
 
 If no times work for you and would still like to participate, please send an email and note any times/days that would work for you. We will do our best to accomodate you so that you can participate in the study.
 
