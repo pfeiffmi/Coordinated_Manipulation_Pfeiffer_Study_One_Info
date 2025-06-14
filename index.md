@@ -56,7 +56,7 @@ Note that the times below may not be up-to-date and may not all be available.
 
 If no times work for you and would still like to participate, please send an email and note any times/days that would work for you. We will do our best to accomodate you so that you can participate in the study.
 
-### 2.2. Current Start Times Available:
+### 2.3. Current Start Times Available:
 
 #### Wednesday, June 18
 
