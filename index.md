@@ -6,43 +6,43 @@ Below, you will find more information to help you decide if you want to particip
 
 
 
-## Study Details
+## 1. Study Details
 
-### Purpose
+### 1.1. Purpose
 
 The general goal of the project is to understand what methods of visualizing data allow users to better identify the success of a robot picking up objects. To acheive this, we will show different displays of a robot grabbing different objects and measure your judgements and confidence of the robot's ability for each grasp.
 
-### Time & Location
+### 1.2. Time & Location
 
 The study will take about 1 hour to complete. 
 
 The study will take place in-person at Oregon State University (additional information for the specific location will be provided via email).
 
-### Activities:
+### 1.3. Activities:
 
 1. Watch videos of a robot picking up objects and judge if the grasp will be successful.
 2. Complete surveys about your experience performing the task.
 3. Complete a demographic questionnaire.
 4. Wear glasses that perform eye-tracking and record what you are saying. 
 
-### Requirements:
+### 1.4. Requirements:
 
 1. Be 18 years of age or older.
 2. Have 20/20 vision or corrected vision by methods other than glasses (examples: contact lenses, laser eye surgery, etc.). Note: anything worn that takes up a considerable amount of space infront of your eyes may prevent you from being able to wear the eye-tracking glasses.
 
-### Risks:
+### 1.5. Risks:
 
 1. Epilepsy warning due to flickering lights in some displays.
 2. Minor discomfort or irritation from wearing the eye tracker may occur. The device will be sanitized to reduce chances of sharing bacteria between users.
 
-### Payment: 
+### 1.6. Payment: 
 If you complete the entire study procedure, you will receive a $25 Amazon gift card. Personally identifying information (name, email address or telephone) is needed for you to receive your gift card, but there will be no tie between this information and any data collected during evaluation.
 
 
 
-## How to Sign Up
+## 2. How to Sign Up
 
-### Sign Up via Email:
+### 2.1. Sign Up via Email:
 
 To sign up for the study, please email Michael Pfeiffer, Graduate Student Researcher, at: pfeiffmi@oregonstate.edu
 
@@ -52,7 +52,7 @@ Alternatively, you can find one or more times below that would work best for you
 
 If no times work for you and would still like to participate, please send an email and note any times/days that would work for you. We will do our best to accomodate you so that you can participate in the study.
 
-### Current Start Times Available:
+### 2.2. Current Start Times Available:
 
 #### Wednesday, June 18
 
