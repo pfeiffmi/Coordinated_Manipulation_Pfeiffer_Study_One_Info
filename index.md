@@ -60,9 +60,9 @@ Thanks,
 
 """
 
-### 2.2. Requesting A Time in First Email:
+### 2.2. Requesting A Specific Time:
 
-You can find one or more times below that would work best for you to participate. Please mention the times you prefer in your email. 
+If you would like to request a specific time to participate, you can find one or more times below that would work best for you. Please mention the times you prefer in your email. 
 
 Note that the times below may not be up-to-date and may not all be available.
 
