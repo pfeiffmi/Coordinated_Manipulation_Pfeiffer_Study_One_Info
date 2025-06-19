@@ -4,7 +4,7 @@ Thank you for your interest in being a part of our study!
 
 Below, you will find more information to help you decide if you want to participate and how to sign up. The details that you should be aware of regarding the study are shown first and information regarding how to sign up are shown last.
 
-
+---
 
 ## 1. Study Details
 
@@ -38,7 +38,7 @@ The study will take place in-person at Oregon State University (additional infor
 ### 1.6. Payment: 
 If you complete the entire study procedure, you will receive a $25 Amazon gift card. Personally identifying information (name, email address or telephone) is needed for you to receive your gift card, but there will be no tie between this information and any data collected during evaluation.
 
-
+---
 
 ## 2. How to Sign Up
 
@@ -50,13 +50,11 @@ Your email can simply say that that you are interested in participating in the s
 
 """
 
+**Subject**: Grasp Study Participation
+
 Hello Michael,
 
 I am interested in participating in your study.
-
-Thanks,
-
-\<Put your name here\>
 
 """
 
@@ -70,197 +68,101 @@ If no times work for you and would still like to participate, please send an ema
 
 ### 2.3. Current Start Times Available:
 
-#### Wednesday, June 18
-
-> 9:00 am
-> 9:30 am
-> 10:00 am
-> 10:30 am
-> 11:00 am
-> 11:30 am
-> 12:00 pm
-> 12:30 pm
-> 1:00 pm
-> 1:30 pm
-> 2:00 pm
-> 2:30 pm
-> 3:00 pm
-> 3:30 pm
-> 4:00 pm
-> 4:30 pm
-> 5:00 pm
-> 5:30 pm
-> 6:00 pm
-> 6:30 pm
-> 7:00 pm
-
-#### Thursday, June 19
-
-> 9:00 am
-> 9:30 am
-> 10:00 am
-> 10:30 am
-> 11:00 am
-> 11:30 am
-> 12:00 pm
-> 12:30 pm
-> 1:00 pm
-> 1:30 pm
-> 2:00 pm
-> 2:30 pm
-> 3:00 pm
-> 3:30 pm
-> 4:00 pm
-> 4:30 pm
-> 5:00 pm
-> 5:30 pm
-> 6:00 pm
-> 6:30 pm
-> 7:00 pm
-
 #### Friday, June 20
 
 > 9:00 am
-> 9:30 am
-> 10:00 am
+> 
 > 10:30 am
-> 11:00 am
-> 11:30 am
+> 
 > 12:00 pm
-> 12:30 pm
-> 1:00 pm
+> 
 > 1:30 pm
-> 2:00 pm
-> 2:30 pm
+> 
 > 3:00 pm
-> 3:30 pm
-> 4:00 pm
+> 
 > 4:30 pm
-> 5:00 pm
-> 5:30 pm
+> 
 > 6:00 pm
-> 6:30 pm
-> 7:00 pm
 
 #### Monday, June 23
 
 > 9:00 am
-> 9:30 am
-> 10:00 am
+> 
 > 10:30 am
-> 11:00 am
-> 11:30 am
+> 
 > 12:00 pm
-> 12:30 pm
-> 1:00 pm
+> 
 > 1:30 pm
-> 2:00 pm
-> 2:30 pm
+> 
 > 3:00 pm
-> 3:30 pm
-> 4:00 pm
+> 
 > 4:30 pm
-> 5:00 pm
-> 5:30 pm
+> 
 > 6:00 pm
-> 6:30 pm
-> 7:00 pm
 
 #### Tuesday, June 24
 
 > 9:00 am
-> 9:30 am
-> 10:00 am
+> 
 > 10:30 am
-> 11:00 am
-> 11:30 am
+> 
 > 12:00 pm
-> 12:30 pm
-> 1:00 pm
+> 
 > 1:30 pm
-> 2:00 pm
-> 2:30 pm
+> 
 > 3:00 pm
-> 3:30 pm
-> 4:00 pm
+> 
 > 4:30 pm
-> 5:00 pm
-> 5:30 pm
+> 
 > 6:00 pm
-> 6:30 pm
-> 7:00 pm
 
 #### Wednesday, June 25
 
 > 9:00 am
-> 9:30 am
-> 10:00 am
+> 
 > 10:30 am
-> 11:00 am
-> 11:30 am
+> 
 > 12:00 pm
-> 12:30 pm
-> 1:00 pm
+> 
 > 1:30 pm
-> 2:00 pm
-> 2:30 pm
+> 
 > 3:00 pm
-> 3:30 pm
-> 4:00 pm
+> 
 > 4:30 pm
-> 5:00 pm
-> 5:30 pm
+> 
 > 6:00 pm
-> 6:30 pm
-> 7:00 pm
 
 #### Thursday, June 26
 
 > 9:00 am
-> 9:30 am
-> 10:00 am
+> 
 > 10:30 am
-> 11:00 am
-> 11:30 am
+> 
 > 12:00 pm
-> 12:30 pm
-> 1:00 pm
+> 
 > 1:30 pm
-> 2:00 pm
-> 2:30 pm
+> 
 > 3:00 pm
-> 3:30 pm
-> 4:00 pm
+> 
 > 4:30 pm
-> 5:00 pm
-> 5:30 pm
+> 
 > 6:00 pm
-> 6:30 pm
-> 7:00 pm
 
 #### Friday, June 27
 
 > 9:00 am
-> 9:30 am
-> 10:00 am
+> 
 > 10:30 am
-> 11:00 am
-> 11:30 am
+> 
 > 12:00 pm
-> 12:30 pm
-> 1:00 pm
+> 
 > 1:30 pm
-> 2:00 pm
-> 2:30 pm
+> 
 > 3:00 pm
-> 3:30 pm
-> 4:00 pm
+> 
 > 4:30 pm
-> 5:00 pm
-> 5:30 pm
+> 
 > 6:00 pm
-> 6:30 pm
-> 7:00 pm
 
 #### Monday, June 30th & Beyond
 
