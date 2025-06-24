@@ -68,38 +68,6 @@ If no times work for you and would still like to participate, please send an ema
 
 ### 2.3. Current Start Times Available:
 
-#### Friday, June 20
-
-> 9:00 am
-> 
-> 10:30 am
-> 
-> 12:00 pm
-> 
-> 1:30 pm
-> 
-> 3:00 pm
-> 
-> 4:30 pm
-> 
-> 6:00 pm
-
-#### Monday, June 23
-
-> 9:00 am
-> 
-> 10:30 am
-> 
-> 12:00 pm
-> 
-> 1:30 pm
-> 
-> 3:00 pm
-> 
-> 4:30 pm
-> 
-> 6:00 pm
-
 #### Tuesday, June 24
 
 > 9:00 am
@@ -119,14 +87,6 @@ If no times work for you and would still like to participate, please send an ema
 #### Wednesday, June 25
 
 > 9:00 am
-> 
-> 10:30 am
-> 
-> 12:00 pm
-> 
-> 1:30 pm
-> 
-> 3:00 pm
 > 
 > 4:30 pm
 > 
@@ -155,12 +115,6 @@ If no times work for you and would still like to participate, please send an ema
 > 10:30 am
 > 
 > 12:00 pm
-> 
-> 1:30 pm
-> 
-> 3:00 pm
-> 
-> 4:30 pm
 > 
 > 6:00 pm
 
